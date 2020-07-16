@@ -78,3 +78,28 @@ p.lead {
     }
   }
 }
+
+.fa-gap {
+  margin-right: 1rem;
+}
+
+.inline-list {
+  ul {
+    margin: 0;
+    padding: 0;
+    li {
+      list-style-type: none;
+    }
+  }
+  li {
+    vertical-align: top;
+  }
+
+  > li {
+    display: inline-block;
+    width: 50%;
+  }
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
