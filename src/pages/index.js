@@ -26,7 +26,7 @@ const IndexPage = () => (
           </div>
           <p className="lead mb-5">
             I'm a biology nerd who wandered out of the lab one day and realized 
-            I wanted to be a computer nerd instead.  I'm expereinced at leveraging
+            I wanted to be a computer nerd instead.  I'm experienced at leveraging
             modern frameworks and technologies to accomplish business goals.  
           </p>
           <div className="social-icons">
